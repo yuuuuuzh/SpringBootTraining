@@ -1,5 +1,5 @@
 # SpringBootTraining
-AppCluster  (for own study)
+～～AppCluster用の覚え書きです (※for own study)～～
 
 ## つまずいた箇所memo
 ### その１

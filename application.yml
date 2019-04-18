@@ -6,7 +6,7 @@ server:
     data-username: org.mariadb.jdbc.Driver
     url: jdbc:mariadb://localhost:8080/memo
     username: root
-    password: 1145
+    password: ****
     connectionProperties: useUnicode=true&characterEncoding=UTF-8&serverTimezone=JST
 
   jpa:

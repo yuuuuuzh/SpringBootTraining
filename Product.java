@@ -100,7 +100,7 @@ public class Product {
 		return discontinued;
 	}
 
-	public void setDiscontinued() {
+	public void setDiscontinued(Integer discontinued) {
 		this.discontinued = discontinued;
 	}
 }

@@ -31,3 +31,7 @@
 - ひたすらCreate  
 →＠Entity　のクラス作ると自動でテーブル作られるという噂...まじか
 
+### その7
+- プロパティファイルの拡張子  
+・application.propertiesとapplication.ymlで中身の書き方違う。それぞれの拡張子に合った書き方をすること。
+
